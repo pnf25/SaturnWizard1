@@ -5,7 +5,7 @@ version="1.0.0"
 zip="https://github.com/sClarkeIsBack/SaturnHosting/raw/master/repo_files/zips/plugin.program.saturnhostingwizard/plugin.program.saturnhostingwizard.zip"
 
 name="Saturn Hosting Build"
-version="1.0.3"
+version="1.0.4"
 url="https://archive.org/download/SaturnHostingRepo/ares_backup_2017-08-04_2358.zip"
 gui="http://"
 kodi="17.3"
